@@ -1,0 +1,10 @@
+String name = "Sara";
+int age = 22;
+double hight = 1.65;
+bool isStudent = true;
+char grade = 'A';
+Console.WriteLine(name);
+Console.WriteLine(age);
+Console.WriteLine(hight);
+Console.WriteLine(isStudent);
+Console.WriteLine(grade);
